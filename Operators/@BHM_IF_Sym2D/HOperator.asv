@@ -1,0 +1,11 @@
+function [ res ] = HOperator( r,c )
+
+   res.adjoint = 0;
+   res.size = size(M);
+   res.indice = find(M~=0);
+   res.M = M;
+   % Register this variable as a HankelMatrix class
+   res = class(res,'HankelMatrix');
+
+end
+
