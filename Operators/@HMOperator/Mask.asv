@@ -1,0 +1,9 @@
+function [ output_args ] = Mask( M )
+
+   res.adjoint = 0;
+   res.M = M;
+   % Register this variable as a Mask class
+   res = class(res,'Mask');
+
+end
+
