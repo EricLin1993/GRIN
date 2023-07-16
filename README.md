@@ -1,2 +1,2 @@
 # GRIN
-GRIN will be issued as a public inversion, free of charge, upon the related-work has been published.
+GRIN-toolbox beta edition is made public for testing.
