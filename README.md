@@ -7,5 +7,4 @@ If you ues GRIN in your research work, please cite the GRIN-related pulications:
 
 kind feedback and possible research collaboration are welcome.  
 
-Corresponding Author: Enping Lin
-Email: enpinglin@qq.com
+Contact: Enping Lin (林恩平) Ph.D. ： enpinglin@qq.com
