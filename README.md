@@ -1,7 +1,5 @@
-# GRIN
 
-
-(https://github.com/EricLin1993/GRIN/assets/52909835/78da4168-30de-46c3-aa02-ec6cc04e6da9)
+![图片](https://github.com/EricLin1993/GRIN/assets/52909835/3981c4c8-91bc-4c00-b4e6-3de1dbc3b4bd)
 
 
 GRIN-toolbox is a light and versatile NMR inversion toolbox. It serves as a matlab-dependent app. The Matlab-independent version will be issued here soon. Stay tuned!   
